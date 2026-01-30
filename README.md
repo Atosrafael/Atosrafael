@@ -12,5 +12,5 @@ Esotou começando na área de programação, atualmente estou aprendendo e crian
 
 - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt=git-logo />
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=github-logo />
-- <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt=vscode-logo />
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
